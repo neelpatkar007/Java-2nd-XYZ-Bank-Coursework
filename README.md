@@ -1,4 +1,4 @@
-# Java-2nd-XYZ-Bank-Coursework
+# Java-Advanced-XYZ-Bank-Coursework
 
 Overview
 The Loans Management System is a Java-based application designed to streamline the management of customer loan records for a fictional bank, XYZBank. This project allows for the registration of customers, management of their loan information, and assessment of loan eligibility based on specific financial criteria.
